@@ -2,6 +2,10 @@ html {
     height: 100%;
 }
 
+body {
+    font-family: verdana;
+}
+
 body::after {
     content: "";
     background-image: url('../images/background.jpg');
@@ -31,4 +35,18 @@ body::after {
 
 .nav-link {
     color: black;
+}
+
+.active {
+    font-weight: bold;
+}
+
+.footer {
+    background-image: url('../images/footer.png');
+    height: 140px;
+}
+
+.coming-soon {
+    font-size: 40px;
+    width: 400px;
 }
