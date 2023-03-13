@@ -21,7 +21,7 @@ body::after {
     z-index: -1;   
 }
 
-.row {
+.row.white {
     background-color: white;
 }
 
@@ -49,4 +49,10 @@ body::after {
 .coming-soon {
     font-size: 40px;
     width: 400px;
+}
+
+.btn-primary {
+    background-color: #f2d2b2;
+    color: black;
+    border-color: black;
 }
