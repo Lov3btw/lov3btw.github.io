@@ -56,3 +56,20 @@ body::after {
     color: black;
     border-color: black;
 }
+
+.pink {
+    background-color: #f2d2b2;
+}
+
+.w250 {
+    width: 250px;
+}
+
+
+/* .row {
+    border: 1px solid black;
+}
+
+.col {
+    border: 1px solid green;
+} */
